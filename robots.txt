@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /thank-you
+Disallow: /404
+
+Sitemap: https://southjordanhomeinsurance.com/sitemap.xml
